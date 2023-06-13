@@ -7,5 +7,6 @@ public class main {
         System.out.println("third modify");
         System.out.println("fourth modify");
         System.out.println("newBranch modify");
+        System.out.println("newBranch modify");
     }
 }
