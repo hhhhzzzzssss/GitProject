@@ -8,5 +8,6 @@ public class main {
         System.out.println("fourth modify");
         System.out.println("master modify");
         System.out.println("newBranch modify");
+        System.out.println("push by master");
     }
 }
